@@ -1,0 +1,11 @@
+{
+  "runtime.js": "/scripts/runtime.e5acffe6.js",
+  "vendors~main.js": "/scripts/vendors~main.97de6ef2.js",
+  "main.css": "/styles/2.01477c46.css",
+  "main.js": "/scripts/main.519a04f9.js",
+  "fonts/main.scss": "/fonts/MyriadPro-LightSemiExt.9984dafa.ttf",
+  "images/velo.png": "/images/velo.20d8ccda.png",
+  "index.html": "/index.html",
+  "about.html": "/about.html",
+  "../stats.json": "/../stats.json"
+}
